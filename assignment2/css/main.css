@@ -1,0 +1,11 @@
+#listingsTable tr:hover {
+  cursor: pointer;
+}
+
+#searchForm {
+  margin-left: auto;
+}
+
+#clearForm {
+  margin-left: 5px;
+}
